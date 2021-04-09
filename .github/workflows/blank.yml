@@ -8,7 +8,7 @@ on:
     
   pull_request:
     branches: [master]
-    
+
 env:
   PYENV_ROOT: /opt/python/versions
   PYENV_HOME: /opt/python/pyenv
